@@ -6,5 +6,5 @@ git git git
 git not staged for commit
 dev
 klfasjkdlfjklasdfklsaklfksldfjaklkjdfs
-dsaklfklsdjf
+dsaklfklsdjf  sflkajksldfjklsdlf master add
 master commit
