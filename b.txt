@@ -1,7 +1,7 @@
 aklfjlsdkjfajljlfjsdlfjalksjdflk
 llalallalallalal
 git not staged for commit
-git 
+git dev add
 git git git 
 git not staged for commit
 dev
